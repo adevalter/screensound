@@ -75,10 +75,16 @@ void ExibirBandasRegistradas()
 ▒█▄▄▄ ▄▀▒▀▄ ▄█▄ ▒█▄▄█ ▄█▄ ▒█░▒█ 　 ▒█▄▄█ ▒█░▒█ ▒█░░▀█ ▒█▄▄▀ ▒█░▒█ ▒█▄▄▄█
 "
         );
+    /*
     for (int i = 0;  i < listadasBandas.Count; i++)
     {
         Console.WriteLine($"Banda: {listadasBandas[i]} ");
 
+    }
+    */
+    foreach ( var banda in listadasBandas)
+    {
+        Console.WriteLine($"Banda: {banda} ");
     }
     Console.WriteLine("\nDigite uma telca para voltar ao menu principal");
     Console.ReadLine();
