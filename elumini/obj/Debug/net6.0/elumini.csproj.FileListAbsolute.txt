@@ -1,12 +1,13 @@
-C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.AssemblyInfoInputs.cache
-C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.AssemblyInfo.cs
-C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.csproj.CoreCompileInputs.cache
 C:\Users\adeva\source\repos\elumini\elumini\bin\Debug\net6.0\elumini.exe
 C:\Users\adeva\source\repos\elumini\elumini\bin\Debug\net6.0\elumini.deps.json
 C:\Users\adeva\source\repos\elumini\elumini\bin\Debug\net6.0\elumini.runtimeconfig.json
 C:\Users\adeva\source\repos\elumini\elumini\bin\Debug\net6.0\elumini.dll
 C:\Users\adeva\source\repos\elumini\elumini\bin\Debug\net6.0\elumini.pdb
+C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.AssemblyInfoInputs.cache
+C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.AssemblyInfo.cs
+C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.csproj.CoreCompileInputs.cache
+C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.sourcelink.json
 C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.dll
 C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\refint\elumini.dll
 C:\Users\adeva\source\repos\elumini\elumini\obj\Debug\net6.0\elumini.pdb

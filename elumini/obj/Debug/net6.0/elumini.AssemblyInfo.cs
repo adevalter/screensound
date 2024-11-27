@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("elumini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1ee7ba443b8cedc4d2d707426cbcc96ed0cedc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("elumini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("elumini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
